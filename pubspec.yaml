@@ -33,6 +33,9 @@ dependencies:
 
   #analisar
   firebase_core: ^2.14.0
+  firebase_analytics: ^10.10.7
+
+
 
   share_plus: ^10.0.2
   logger: ^2.5.0
