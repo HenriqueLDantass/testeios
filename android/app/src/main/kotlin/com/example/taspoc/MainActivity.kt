@@ -1,4 +1,4 @@
-package com.example.taspoc
+package com.lxpapp.taspoc
 
 import io.flutter.embedding.android.FlutterActivity
 
